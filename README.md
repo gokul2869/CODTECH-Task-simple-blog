@@ -6,9 +6,11 @@
 This repository contains the code for a blog posts application, developed as part of my internship at Codtech IT Solutions. The project includes both frontend and backend components, enabling users to view, create, edit, and delete blog posts. The application uses MongoDB or PostgreSQL for data storage.
 
 
-About Me
-Name: Gokul
-Domain: Full Stack Web Development
+**About Me**
+
+**Name:** Gokul
+
+**Domain:** Full Stack Web Development
 
 
 **Overview 🌟**
